@@ -5,6 +5,7 @@ import { styles } from './styles';
 
 const CarouselProduct = () => {
   const data = new Array(10).fill(1);
+  const data1 = new Array(10).fill(1);
 
   const ItemProduct = () => {
     return (
